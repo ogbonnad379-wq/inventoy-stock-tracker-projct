@@ -2,7 +2,7 @@ import csv
 
 FILENAME = "inventory.csv"
 
-#          Adding new item
+#   Adding new item
 
 
 def add_item():
